@@ -29,8 +29,3 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
 ----------------------------------------------------------------
-
-This project is forked from: https://github.com/MicrosoftDocs/pipelines-java
-This is just a java project for building the war files and build a docker image from it. 
-The docker image is then pushed to container registry and deployed using AKS cluster.
-Reference link: https://www.youtube.com/watch?v=4Oa5HneTuKs
